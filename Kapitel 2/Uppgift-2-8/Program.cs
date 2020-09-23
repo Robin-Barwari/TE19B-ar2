@@ -12,7 +12,7 @@ namespace Uppgift_2_8
           //Plocka ut talen
         int position = addition.IndexOf("+");
         int tal1 = int.Parse(addition.Substring(0, position));
-        int tal2 = int.Parse(addition.Subtsting(position + 1));
+        int tal2 = int.Parse(addition.Substring(position + 1));
 
           //Räkna ut summan
         int summa = tal1 + tal2;
