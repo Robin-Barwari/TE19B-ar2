@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.exe
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.deps.json
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.dll
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\bin\Debug\netcoreapp3.1\GissaEttTal.pdb
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.dll
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.pdb
+C:\github\TE19B-ar2\Kapitel 3\GissaEttTal\obj\Debug\netcoreapp3.1\GissaEttTal.genruntimeconfig.cache
