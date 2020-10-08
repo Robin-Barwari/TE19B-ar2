@@ -1,0 +1,4 @@
+C:\github\TE19B-ar2\Kapitel 4\Exempel-3\obj\Debug\netcoreapp3.1\Exempel-3.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 4\Exempel-3\obj\Debug\netcoreapp3.1\Exempel-3.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Exempel-3\obj\Debug\netcoreapp3.1\Exempel-3.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 4\Exempel-3\obj\Debug\netcoreapp3.1\Exempel-3.csproj.CoreCompileInputs.cache
