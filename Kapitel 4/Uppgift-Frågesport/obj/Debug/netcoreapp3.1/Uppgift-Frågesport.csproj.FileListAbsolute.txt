@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.exe
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.deps.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.dll
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\bin\Debug\netcoreapp3.1\Uppgift-Frågesport.pdb
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.dll
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.pdb
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-Frågesport\obj\Debug\netcoreapp3.1\Uppgift-Frågesport.genruntimeconfig.cache

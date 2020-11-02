@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.exe
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.deps.json
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.dll
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\bin\Debug\netcoreapp3.1\Exempel-4.pdb
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.dll
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.pdb
+C:\github\TE19B-ar2\Kapitel 4\Exempel-4\obj\Debug\netcoreapp3.1\Exempel-4.genruntimeconfig.cache
