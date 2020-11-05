@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.exe
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.deps.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.dll
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\bin\Debug\netcoreapp3.1\Uppgift-4-8.pdb
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.dll
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.pdb
+C:\github\TE19B-ar2\Kapitel 4\Uppgift-4-8\obj\Debug\netcoreapp3.1\Uppgift-4-8.genruntimeconfig.cache
