@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.exe
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.deps.json
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.dll
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\bin\Debug\netcoreapp3.1\Morsetolk.pdb
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.dll
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.pdb
+C:\github\TE19B-ar2\Kapitel 5\Morsetolk\obj\Debug\netcoreapp3.1\Morsetolk.genruntimeconfig.cache
