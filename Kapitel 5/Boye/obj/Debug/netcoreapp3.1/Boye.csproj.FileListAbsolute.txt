@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.exe
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.deps.json
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.dll
+C:\github\TE19B-ar2\Kapitel 5\Boye\bin\Debug\netcoreapp3.1\Boye.pdb
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.dll
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.pdb
+C:\github\TE19B-ar2\Kapitel 5\Boye\obj\Debug\netcoreapp3.1\Boye.genruntimeconfig.cache
