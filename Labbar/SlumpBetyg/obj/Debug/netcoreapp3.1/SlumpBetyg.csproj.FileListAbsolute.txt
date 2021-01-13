@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.exe
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.deps.json
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.runtimeconfig.json
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.dll
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\bin\Debug\netcoreapp3.1\SlumpBetyg.pdb
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.AssemblyInfo.cs
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.dll
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.pdb
+C:\github\TE19B-ar2\Labbar\SlumpBetyg\obj\Debug\netcoreapp3.1\SlumpBetyg.genruntimeconfig.cache

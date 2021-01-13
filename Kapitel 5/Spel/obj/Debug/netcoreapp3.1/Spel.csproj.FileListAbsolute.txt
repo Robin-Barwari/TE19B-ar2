@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.exe
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.deps.json
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.dll
+C:\github\TE19B-ar2\Kapitel 5\Spel\bin\Debug\netcoreapp3.1\Spel.pdb
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.dll
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.pdb
+C:\github\TE19B-ar2\Kapitel 5\Spel\obj\Debug\netcoreapp3.1\Spel.genruntimeconfig.cache

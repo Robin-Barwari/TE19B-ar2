@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.exe
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.deps.json
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.runtimeconfig.json
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.dll
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\bin\Debug\netcoreapp3.1\Array och mera.pdb
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.dll
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.pdb
+C:\github\TE19B-ar2\Kapitel 5\Array och mera\obj\Debug\netcoreapp3.1\Array och mera.genruntimeconfig.cache
