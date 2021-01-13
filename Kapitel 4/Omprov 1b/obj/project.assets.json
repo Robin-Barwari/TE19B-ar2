@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\TE19B-ar2\\Kapitel 5\\Uppgift-5-7\\Uppgift-5-7.csproj",
-      "projectName": "Uppgift-5-7",
-      "projectPath": "C:\\github\\TE19B-ar2\\Kapitel 5\\Uppgift-5-7\\Uppgift-5-7.csproj",
+      "projectUniqueName": "C:\\github\\TE19B-ar2\\Kapitel 4\\Omprov 1b\\Omprov 1b.csproj",
+      "projectName": "Omprov 1b",
+      "projectPath": "C:\\github\\TE19B-ar2\\Kapitel 4\\Omprov 1b\\Omprov 1b.csproj",
       "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\TE19B-ar2\\Kapitel 5\\Uppgift-5-7\\obj\\",
+      "outputPath": "C:\\github\\TE19B-ar2\\Kapitel 4\\Omprov 1b\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Robin\\AppData\\Roaming\\NuGet\\NuGet.Config"
