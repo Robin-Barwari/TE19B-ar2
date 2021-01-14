@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.AssemblyInfo.cs
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.exe
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.deps.json
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.runtimeconfig.json
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.dll
+C:\github\TE19B-ar2\Labbar\Filhantering\bin\Debug\netcoreapp3.1\Filhantering.pdb
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.dll
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.pdb
+C:\github\TE19B-ar2\Labbar\Filhantering\obj\Debug\netcoreapp3.1\Filhantering.genruntimeconfig.cache
