@@ -55,7 +55,7 @@ namespace Projektuppgift_2
             // Hantera menyVal
             string antalGäster = "";
             string bordNamn = "";
-            string bordNr = "";
+            int svar = 0, bordNr = 0;
             switch (menyVal)
             {
                 case "1":
@@ -87,25 +87,14 @@ namespace Projektuppgift_2
                 Console.WriteLine($"Total antal gäster: {totaltAntalGäster}");
                 break;
 
-
                 case "2":
                 // Fråga bordsnr
                 Console.WriteLine("Vilket bord vill du ändra på?");
-                // kontrollera att man matar bord 1-8
-                while (true)
+                while (!int.TryParse(Console.ReadLine(), out svar) && svar <= 1 || svar > 8)
                 {
-                    bordNr = Console.ReadLine();
-                    if (int.Parse(bordNr) <= 0 || int.Parse(bordNr) > antalBord)
-                    {
-                        Console.WriteLine("Icke gilltig bordsnummer, vg försök igen");
-                    }
-                    else
-                    {
-                        break;
-                    }
+                    Console.WriteLine("Icke giltigt bordsnummer, försök igen");
                 }
-                // @todo hantera inmatningsfel med tryParse()
-
+                bordNr = svar;
 
                 // Fråga namn
                 Console.WriteLine("Ange ett namn");
@@ -119,7 +108,7 @@ namespace Projektuppgift_2
 
 
                 // spara i arrayen
-                bordsInformation[int.Parse(bordNr) - 1] = $"{antalGäster},{bordNamn}";
+                bordsInformation[bordNr - 1] = $"{antalGäster},{bordNamn}";
 
 
                 // Lagra i filen
@@ -128,6 +117,22 @@ namespace Projektuppgift_2
                 break;
 
                 case "3":
+                
+                // Fråga bordsnr
+                Console.WriteLine("Vilket bord vill du tömma?");
+                
+                // Kontrollera att man matar bord 1-8
+                while (!int.TryParse(Console.ReadLine(), out svar) && svar <= 1 || svar > 8)
+                {
+                    Console.WriteLine("Icke giltigt bordsnummer, försök igen");
+                }
+                bordNr = svar;
+
+                // Återställ bordets info till tomt
+                bordsInformation[bordNr -1] = tomtBordBeskrivning;
+
+                // Uppdatera sparfilen
+                File.WriteAllLines(filnamn, bordsInformation);
                 break;
 
                 case "4":
