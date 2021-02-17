@@ -1,0 +1,13 @@
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.exe
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.deps.json
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.runtimeconfig.json
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.runtimeconfig.dev.json
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.dll
+C:\github\TE19B-ar2\Labbar\Countries\bin\Debug\netcoreapp3.1\Countries.pdb
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.AssemblyInfo.cs
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.csproj.CoreCompileInputs.cache
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.dll
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.pdb
+C:\github\TE19B-ar2\Labbar\Countries\obj\Debug\netcoreapp3.1\Countries.genruntimeconfig.cache
