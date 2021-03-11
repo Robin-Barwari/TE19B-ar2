@@ -1,0 +1,4 @@
+C:\github\TE19B-ar2\Kapitel 6\Uppgift-6-6\obj\Debug\netcoreapp3.1\Uppgift-6-6.csprojAssemblyReference.cache
+C:\github\TE19B-ar2\Kapitel 6\Uppgift-6-6\obj\Debug\netcoreapp3.1\Uppgift-6-6.AssemblyInfoInputs.cache
+C:\github\TE19B-ar2\Kapitel 6\Uppgift-6-6\obj\Debug\netcoreapp3.1\Uppgift-6-6.AssemblyInfo.cs
+C:\github\TE19B-ar2\Kapitel 6\Uppgift-6-6\obj\Debug\netcoreapp3.1\Uppgift-6-6.csproj.CoreCompileInputs.cache
