@@ -10,6 +10,10 @@ namespace Uppgift_6_2
             Console.WriteLine("Ange din text så får vi se.");
             SkrivBaklänges(Console.ReadLine());
         }
+        /// <summary>
+        /// Metoden skriver allt baklänges
+        /// </summary>
+        /// <param name="meddelande">Texten användaren matade in</param>
         static void SkrivBaklänges (string meddelande)
         {
             for (int i = meddelande.Length - 1; i >= 0; i--)

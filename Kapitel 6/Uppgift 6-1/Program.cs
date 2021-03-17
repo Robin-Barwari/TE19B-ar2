@@ -13,6 +13,10 @@ namespace Uppgift_6._1
             SkrivTalIKvadrat(25);
 
         }
+        /// <summary>
+        /// Metoden skriver ut svaret
+        /// </summary>
+        /// <param name="tal">Siffrorna inom paranteserna</param>
         static void SkrivTalIKvadrat(int tal) {
             Console.WriteLine($"Talet {tal} upphöjt med två är {tal * tal}");
         }
