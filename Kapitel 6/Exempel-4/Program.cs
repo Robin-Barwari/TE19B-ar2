@@ -17,10 +17,10 @@ namespace Exempel_2_1
             int bordNr = ReadInt();
             Console.WriteLine($"Du valde bord {bordNr}");
         }
-/// <summary>
-/// Metoden för säkert sätt att läsa in heltal
-/// </summary>
-/// <returns>Heltalet</returns>
+        /// <summary>
+        /// Metoden för säkert sätt att läsa in heltal
+        /// </summary>
+        /// <returns>Heltalet</returns>
         static int ReadInt()
         {
             int svar = 0;
