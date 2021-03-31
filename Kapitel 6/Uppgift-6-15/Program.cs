@@ -6,12 +6,15 @@ namespace Uppgift_6_15
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Välj en utav dessa alternativ för att se de baklänge");
-            Console.WriteLine("Mike Tyson");
-            Console.WriteLine(1980);
-            Console.WriteLine("17,89");
+            SkrivBaklänges("Mike Tyson");
+            SkrivBaklänges(1980);
+            SkrivBaklänges(17.89);
         }
 
+        /// <summary>
+        /// Skriver baklänges
+        /// </summary>
+        /// <param name="text">meddelandet i static void main</param>
         static void SkrivBaklänges(string text)
         {
             for (int i = text.Length - 1; i >= 0; i--)
@@ -21,9 +24,22 @@ namespace Uppgift_6_15
             Console.WriteLine();
         }
 
+        /// <summary>
+        /// Skriver heltal baklänges
+        /// </summary>
+        /// <param name="heltal">står för tal utan decimal</param>
         static void SkrivBaklänges(int heltal)
         {
+            SkrivBaklänges(heltal.ToString());
+        }
 
+        /// <summary>
+        /// Skriver decimaltal baklänges
+        /// </summary>
+        /// <param name="tal">står för decimal</param>
+        static void SkrivBaklänges(double tal)
+        {
+            SkrivBaklänges(tal.ToString());
         }
     }
 }
